@@ -1,3 +1,0 @@
-Creame un codigo que pida nombre y fecha de nacimiento, entonces calcula la edad y muestra por pantalla en que rango de edad esta: 
-menor de 18 = menor de edad , entre 18 y 65 = adulto y si esta por encima de 65 = anciano
-Ademas controla que la edad no sea menor a 0 o superior a 100 y comprueba que se incluyan datos al preguntarlos

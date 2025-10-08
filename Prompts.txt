@@ -1,0 +1,18 @@
+
+ListaNumeros.py
+Crea un programa que pida una lista de numeros separados por comas al usuario, tras esto los convierte a floats y calcula
+ la suma, la media y el maximo, ademas debe mostrar si hay numeros repetidos y cuales son
+ Adiciones:
+ añade que ademas cuente cuantas veces se repite cada numero
+ Verifica si la entrada de numeros tiene el formato correcto
+ -----------------------------
+ Dame un codigo que pida la temperatura en grados celsius y las convierta a kelvin 
+ o farenheit dependiendo de la eleccion del usuario
+ Adiciones:
+ Haz que el codigo nos diga si esta por encima o por debajo de la temperatura media españa 
+ y si es una temperatura en la que se puede vivir
+ ----------------------------
+ Dame un codigo que pida una cadena de caracteres y que cuente: las vocales, las consonantes, las mayusculas y 
+ la cantidad total de caracteres 
+ Adiciones
+Cuenta las minusculas y muestra la cadena al reves

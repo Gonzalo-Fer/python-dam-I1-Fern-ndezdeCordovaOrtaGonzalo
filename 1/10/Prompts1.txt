@@ -1,0 +1,9 @@
+Creame un codigo que pida nombre y fecha de nacimiento, entonces calcula la edad y muestra por pantalla en que rango de edad esta: 
+menor de 18 = menor de edad , entre 18 y 65 = adulto y si esta por encima de 65 = anciano
+Ademas controla que la edad no sea menor a 0 o superior a 100 y comprueba que se incluyan datos al preguntarlos
+
+----------------------------
+Eco_io.py prompt
+Dame un codigo que pida 3 numeros al usuario y calcule: la suma, la media y el maximo 
+despues lo debe mostrar por pantalla y ademas debe mostrar cuales son pares y cuales son impares
+
