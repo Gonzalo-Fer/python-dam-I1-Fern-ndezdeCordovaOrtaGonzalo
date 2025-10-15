@@ -21,15 +21,11 @@ def pedir_notas():
             descartadas = []
 
             for p in partes:
-                if p == '':
-                    descartadas.append('(vacío)')
-                    continue
                 try:
                     v = float(p)
                     if 0 <= v <= 10:
                         validas.append(v)
-                    else:
-                        descartadas.append(p)
+                    
                 except ValueError:
                     descartadas.append(p)
 
