@@ -7,7 +7,7 @@ from collections import Counter
 # Este programa pide una lista de calificaciones (números reales entre 0 y 10)
 # esta funcion pide la lista de notas y las valida separandolas por la coma para quedarnos solo con los numeros
 # y las convierte a float, si hay algun valor no convertible a float lo descarta y avisa al usuario
-# si no hay ningun valor valido vuelve a pedir la lista
+# si no hay ningun valor valido al final vuelve a pedir la lista
 
 def pedir_notas():
         while True:
@@ -55,6 +55,7 @@ def main():
         # Recogemos las notas y medimos la longitud para sacar la media, minimo y maximo se hace con las funciones nativas de python
         # para contar los aprobados y sobresalientes usamos una comprension de listas y los porcentajes se sacan con una regla de 3
         # la moda se calcula con la funcion calcular_modal
+        # tambien sacamos los indices de las notas maxima y minima con la funcion index
         notas = pedir_notas()
 
         total = len(notas)
