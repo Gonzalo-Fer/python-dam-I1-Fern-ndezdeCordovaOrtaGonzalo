@@ -8,10 +8,6 @@ import re
 
 # Patrón que acepta enteros, floats (con o sin parte entera) y notación científica,
 # separados por comas opcionalmente con espacios alrededor.
-_NUM_LIST_RE = re.compile(
-    r'^\s*[+-]?(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+)?'
-    r'(?:\s*,\s*[+-]?(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+)?\s*)*$'
-)
 
 def validar_entrada(entrada: str) -> bool:
     """Devuelve True si entrada es una lista válida de números separados por comas."""
