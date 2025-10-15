@@ -9,12 +9,6 @@ import re
 # Patrón que acepta enteros, floats (con o sin parte entera) y notación científica,
 # separados por comas opcionalmente con espacios alrededor.
 
-def validar_entrada(entrada: str) -> bool:
-    """Devuelve True si entrada es una lista válida de números separados por comas."""
-    if not entrada or entrada.strip() == "":
-        return False
-    return bool(_NUM_LIST_RE.match(entrada))
-
 def pedir_numeros():
     while True:
         entrada = input("Introduce una lista de números separados por comas: ").strip()
