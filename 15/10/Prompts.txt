@@ -4,3 +4,5 @@ Creame un codigo que pida al usuario una lista de calificaciones separadas por c
 nota modal y un mensaje final dependiendo de la media si es menor a 5 "necesita refuerzo" si es entre 5 y 7.9 "Nivel medio" y si es mayor a 8 "Nivel excelente"
 Adiciones:
 Mostrar en que posicion del index estan las notas maxima y minima
+
+Tuve que preguntar a la IA las funciones de counter en mi codigo

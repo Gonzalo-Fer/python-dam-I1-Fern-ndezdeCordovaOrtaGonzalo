@@ -68,7 +68,7 @@ def main():
         pct_sobres = sobresalientes / total * 100
         moda = calcular_modal(notas)
 
-        idx_max = notas.index(maxima)      # índice 0-based
+        idx_max = notas.index(maxima)      
         idx_min = notas.index(minima)
 
         print(f"\nNúmero total de notas: {total}")
