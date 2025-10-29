@@ -1,0 +1,7 @@
+Diccionarios Gym
+Genera un codigo que tenga un sencillo y simple sistema usando diccionarios el programa debe contener:
+insertar, modificar y eliminar registros
+Calcular al menos una metrica (Media, minimos, maximos)
+Usar un bucle para recorrer claves y valores
+Todo esto debe realizar sin modularidad y explicando con comentarios
+El contexto es un sistema de gestion de un gimnasio
