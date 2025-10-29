@@ -1,0 +1,22 @@
+---------- auxprecios
+Crea un codigo que analiza una lista de precios usando funciones, 
+ten en cuenta que despues vamos a llamar a este modulo desde otro
+---------- Precios
+Crea un codigo en el que vamos a hacer unos imports de auxprecios y vamos a usar esas funciones:
+        calcular_promedio pide la lista
+        encontrar_precio_max pide la lista
+        encontrar_precio_min pide la lista
+        contar_precios_mayores_que pide la lista y un valor, devuelve cualquier numero en la lista mayor a ese valor
+        filtrar_precios_rango pide la lista y dos valores, devuelve los numeros entre esos valores, primero el minimo y luego el maxmo
+
+--------------------------------------
+- Teniendo en cuenta que mi grupo es compuesto por estudiantes
+ que acaban de empezar con Python, cómo podríamos realizar este
+ apartado:
+ Investigación de módulos (estándar y no estándar).
+ Elegid un módulo estándar y no estándar de Python, entended
+ para qué sirve y elaborar una pequeña ficha en la que
+ seleccionéis dos o tres funciones relevantes del módulo
+ y las expliquéis con un programa sencillito con su uso.
+
+- cambia este código para que request busque chistes en internet:
