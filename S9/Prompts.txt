@@ -1,5 +1,5 @@
 Dame un pequeño programa que permita tener un control de tareas diarias 
-
+Asegurate de hacerlo sencillo
 Al menos 3 funciones, con parámetros y retorno.
 Control de errores con try/except (por entradas erróneas, índices, etc.).
 Uso de al menos un módulo estándar (datetime, math, random, os, etc.) con sentido. 
