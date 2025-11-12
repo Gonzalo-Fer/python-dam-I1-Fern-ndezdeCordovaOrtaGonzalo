@@ -1,0 +1,12 @@
+Crea un codigo que almacene datos usando estructuras anidadas, quiero que contenga loas datos de cada asignatura, 
+la cantidad de examenes que se han hecho y la media de esa asignatura, ademas crea funciones para añadir registros y buscar registros,
+asegurate de controlar los errores
+
+-----------------------
+
+Refactor:
+
+Explicame este codigo y dime si ves algun error:
+Errores vistos por la IA: Indentacion de codigo y conversion del número de alumnos
+
+
